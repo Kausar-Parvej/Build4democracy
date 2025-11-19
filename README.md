@@ -30,6 +30,27 @@ In early stages, we aim to reach a few thousand users, verify a meaningful volum
 Idea / Concept Stage  
 The problem, user groups, safety considerations, and solution direction are defined. The first working prototype will be developed during the hackathon.
 
+## File structure
+factcheck-bd/
+│
+├── README.md
+├── CONTRIBUTING.md
+├── LICENSE
+├── CODE_OF_CONDUCT.md
+│
+├── docs/
+│   ├── project_overview.md
+│   ├── system_design.md
+│   ├── data_handling_policy.md
+│   └── misuse_prevention_policy.md
+│
+├── src/
+│   ├── app_placeholder.txt
+│   └── architecture_notes.md
+│
+└── .gitignore
+
+
 ## Links  
 GitHub repository: _to be added_  
 Mockups or design notes: _to be added_  
